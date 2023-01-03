@@ -98,6 +98,11 @@ ul {
 
     /* button cliquez */
 
+     a {
+      text-decoration: none;
+      }  
+     
+
     .copy-btn1 {
       top: 470px;
       left: 800px;
