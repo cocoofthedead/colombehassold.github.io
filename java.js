@@ -33,7 +33,7 @@ const copyLink = async (link) => {
     }, 3000)
 };
 
-button.addEventListener('click', () => copyLink('Colombe Hassold.La gamification des tutoriels améliorant l'apprentissage.'))
+button.addEventListener('click', () => copyLink('Colombe Hassold. La gamification des tutoriels améliorant lapprentissage. Université de Strasbourg. Faculté des arts visuel, département Multimédia. 2023'))
 
 
 
