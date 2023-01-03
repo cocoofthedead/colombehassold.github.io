@@ -144,6 +144,7 @@ ul {
       height: 90px;
       display: flex;
       justify-content: space-between;
+      text-decoration: none;
       cursor: pointer;
       position: absolute;
       background: none;
@@ -164,6 +165,7 @@ ul {
       height: 90px;
       display: flex;
       justify-content: space-between;
+      text-decoration: none;
       cursor: pointer;
       position: absolute;
       background:none;
