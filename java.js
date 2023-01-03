@@ -55,5 +55,5 @@ function getPDF() {
     'elementHandlers': specialElementHandlers
   });
 
-  doc.save('Generated.pdf');
+  doc.save('Colombe.Hassold.Lagamificationdestutorielsameliorantlapprentissage_compressed.PDF');
 }
