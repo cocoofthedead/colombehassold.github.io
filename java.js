@@ -33,7 +33,7 @@ const copyLink = async (link) => {
     }, 3000)
 };
 
-button.addEventListener('click', () => copyLink('Colombe Hassold . «La gamification des tutoriels améliorant l'apprentissage». Université de Strasbourg, Département Multimédia Faculté des arts visuels. 2023. Français. URL: https://cocoofthedead.github.io/colombehassold.github.io/'))
+button.addEventListener('click', () => copyLink('Colombe Hassold.«La gamification des tutoriels améliorant l'apprentissage».Université de Strasbourg,Département Multimédia Faculté des arts visuels.2023.Français.URL:https://cocoofthedead.github.io/colombehassold.github.io/'))
 
 
 
