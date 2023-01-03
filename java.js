@@ -6,12 +6,14 @@ openBtn.onclick = openNav;
 closeBtn.onclick = closeNav;
 
 /* Set the width of the side navigation to 250px */
-function openNav() {
+function openNav(event) {
+    event.preventDefault();
     sidenav.classList.add("active");
 }
 
 /* Set the width of the side navigation to 0 */
-function closeNav() {
+function closeNav(evt) {
+    evt.preventDefault();
     sidenav.classList.remove("active");
 }
 
